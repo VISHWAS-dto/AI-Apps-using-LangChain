@@ -12,7 +12,7 @@ AI applications built using LangChain, Groq, and Streamlit.
 Python, LangChain, Groq API, Streamlit
 
 ## Setup
-git clone https://github.com/vishwasdto/GenAI-Applications.git
+git clone https://github.com/VISHWAS-dto/AI-Apps-using-LangChain
 cd GenAI-Applications
 pip install -r requirements.txt
 
